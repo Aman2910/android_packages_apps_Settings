@@ -28,6 +28,10 @@
     <string name="advanced_reboot_title">Advanced reboot</string>
     <string name="advanced_reboot_summary">When unlocked, include options in the power menu for rebooting into recovery or bootloader</string>
 
+    <!-- Security > Quick unlock on keyguard -->
+    <string name="quick_unlock_title">Quick unlock</string>
+    <string name="quick_unlock_summary">When enabled you will not need to confirm your lockscreen password or PIN, it will automatically unlock when right PIN or password is entered</string>
+
     <!-- Notifications as heads-up -->
     <string name="zen_heads_up_toggle_title">Heads-up for notifications</string>
     <string name="zen_heads_up_toggle_summary">Allows incoming notifications that support the current mode to display in from the top.</string>
