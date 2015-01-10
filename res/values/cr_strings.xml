@@ -36,6 +36,9 @@
     <string name="cancel">Cancel</string>
     <string name="ok">OK</string>
 
+    <!-- Recents Summary -->
+    <string name="recents_mix_summary">crDroid let you choice one of our systems of recents (GOOGLE RECENTS or OMNISWITCH)</string>
+
     <!-- crDroid custom settings -->
     <string name="crdroid_custom_title">crDroid custom</string>
     <string name="status_bar_title">Status bar</string>
@@ -45,6 +48,9 @@
     <string name="animation_title">Animations</string>
     <string name="animation_settings">Animation settings</string>
     <string name="reset_message">Reset all entries to default?</string>
+
+    <!-- OmniSwitch -->
+    <string name="omniswitch_settings_title">OmniSwitch Settings</string>
     
     <!-- Advanced sound settings -->
     <string name="advanced_title">Advanced options</string>
